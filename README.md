@@ -1,7 +1,3 @@
-Here’s a copy‑&‑paste‑ready **README.md** for your Mimic AI repository—tailored for an interviewer’s review, with theoretical depth, project flow, and concrete results. Citations point to the detailed report.
-
----
-
 # Mimic AI – Personality‑Driven Chatbot
 
 ## Table of Contents
